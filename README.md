@@ -1,4 +1,4 @@
-# Analyze-NYSE-Data
+# Project 2: Analyze-NYSE-Data
 In this project, I analyzing a real life data from the New York Stock Exchange that provided by Kaggle it contains historical financial data from S&P 500 companies and creating an income statement and forecast financial metrics.
 
 The main goal of this project is:
